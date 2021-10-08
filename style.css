@@ -1,0 +1,11 @@
+.splash-screen {
+  background-image: url("img/comp.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 669px;
+}
+
+.gallery {
+  margin: 0;
+  padding: 0;
+}
